@@ -1,1 +1,1 @@
-import FormContainer from "./components/container/FormContainer";
+import Template from "./components/template/Template";
